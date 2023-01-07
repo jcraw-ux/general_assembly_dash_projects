@@ -1,2 +1,2 @@
-# general_assembly_dash_projects
+# General Assemb.ly Dash Tutorial Projects
 Projects from General Assembly's "Dash" tutorial.
