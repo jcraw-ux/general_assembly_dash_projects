@@ -2,7 +2,7 @@
 Projects from
 https://dash.generalassemb.ly/projects
 
-Done 2023/01/07.
+Done 2023/01/09.
 
 1. Build a personal website.
 2. Initial site: Anna's Website.
